@@ -9,3 +9,6 @@ We have different types of variable: String, float, Boolean, Complex and integer
 Data structure stores a list of values in a variable.
 Sets are declared in curly braces.
 Tuples are similar to list but they cannot be modified once declared.They are useful when you need to store large amount of data in memory.
+Dictionary is a collection of key value pairs.
+Dictionaries are declared using curly braces and accessed using keys.
+# Operators 
