@@ -26,4 +26,4 @@ Exponent operator
 Division 
 Modulus Operator
 
-Another set of operators n Python are comparison operators, logical operators, identity operators and membership operators.
+Another set of operators in Python are comparison operators, logical operators, identity operators and membership operators.
