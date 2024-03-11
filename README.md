@@ -37,5 +37,6 @@ Membership operators "in" and "not" are used to check whether a value is present
 if statement is one of the control flow in progarmming. It allows you to execute a code only if the statement or condition is true.
 You can add more code under the if statement by indenting it further.
 If you add an else statement the code under that will be executed if the condition is false.
+In Python use the if statement like "a=True, if a: print it is true"
 
 
