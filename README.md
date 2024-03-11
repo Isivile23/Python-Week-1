@@ -18,4 +18,11 @@ Dictionaries are declared using curly braces and accessed using keys.
 # Operators 
 
 Operators are instructions that perform operations on variables and values in python.
-
+The most familiar type of operator is the arithmetic operator.It is used for mathematical calculations.
+Examples of arithmetic operators are:
+Addition operator
+Multiplication operator
+Exponent operator
+Division 
+Modulus Operator
+Another set of operators n Python are comparison operators, logical operators, identity operators and membership operators.
