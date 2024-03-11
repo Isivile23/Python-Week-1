@@ -27,3 +27,10 @@ Division
 Modulus Operator
 
 Another set of operators in Python are comparison operators, logical operators, identity operators and membership operators.
+
+Comparison Operators evaluate two variables or values and produces a Boolean result, either true or false.
+Logical Operators, such as "and", "or" and "not" operate on Boolean values.
+Membership operators "in" and "not" are used to check whether a value is present in a sequence or not.
+
+# Control Flow
+
