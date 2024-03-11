@@ -25,4 +25,5 @@ Multiplication operator
 Exponent operator
 Division 
 Modulus Operator
+
 Another set of operators n Python are comparison operators, logical operators, identity operators and membership operators.
