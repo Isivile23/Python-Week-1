@@ -34,3 +34,6 @@ Membership operators "in" and "not" are used to check whether a value is present
 
 # Control Flow
 
+if statement is one of the control flow in progarmming. It allows you to execute a code only if the statement or condition is true.
+
+
