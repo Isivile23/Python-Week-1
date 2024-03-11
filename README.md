@@ -6,3 +6,4 @@ Jupyter Notebook is a web application where you write and execute python program
 Variables contain lowercases, uppercases and underscore. In Python variable names begin with a lowercase.
 We have different types of variable: String, float, Boolean, Complex and integer.
 Data structure stores a list of values in a variable.
+Sets are declared in curly braces.
