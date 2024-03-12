@@ -43,6 +43,9 @@ In While Loop we can execute a set of statements as long as the condition is tru
 
 # Functions
 
-
-
+A function is a block of code which only runs when it is called.
+You can pass data, known as parameters into a function.
+A function can return data as a result.
+Functions can be defined using the "def" keyword followed by the function name and argument in parameters.
+The keyord "None" represent the absence of value, and it is the default return value for functions that do not explicitly return anything.
 
