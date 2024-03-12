@@ -83,6 +83,19 @@ Assignment Operators
 
 Assignment operators are used to assign values to variables.
 
+* =               
+* +=
+* -=
+* /=
+* %=
+* //=
+* **=
+* &=
+* |=
+* ^=
+* >>=
+* <<=
+
 
   
 
