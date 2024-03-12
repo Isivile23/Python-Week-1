@@ -57,6 +57,8 @@ We use an uppercase letter for class name.
 # Python Operators
 
 Operators are used to perform operations on variables and values.
+Python divides operators in the following groups:
+
 * Arithmetic Operators
 * Assignment Operators
 * Comparison Operators
