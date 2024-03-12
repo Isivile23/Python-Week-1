@@ -57,6 +57,12 @@ We use an uppercase letter for class name.
 # Python Operators
 
 Operators are used to perform operations on variables and values.
+* Arithmetic Operators
+* Assignment Operators
+* Comparison Operators
+* Logical Operators
+* Identity Operators
+* Membership Operators
 
 
 
