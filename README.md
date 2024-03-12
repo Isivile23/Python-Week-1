@@ -65,6 +65,9 @@ Python divides operators in the following groups:
 * Logical Operators
 * Identity Operators
 * Membership Operators
+* Bitwise Operators
+
+
 
 
 
