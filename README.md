@@ -76,7 +76,7 @@ Arithmetic operators are used with numeric values to perform common mathematical
 * Multplication (*)
 * Division (/)
 * Modulus (%)
-* Exponentiation (^)
+* Exponentiation (**)
 * Floor division (//)
 
   
