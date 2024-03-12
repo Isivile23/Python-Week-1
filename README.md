@@ -49,3 +49,8 @@ A function can return data as a result.
 Functions can be defined using the "def" keyword followed by the function name and argument in parameters.
 The keyord "None" represent the absence of value, and it is the default return value for functions that do not explicitly return anything.
 
+# Classes and objects
+
+Class helps to label and organize related collection of functions and attributes.
+We use an uppercase letter for class name.
+
