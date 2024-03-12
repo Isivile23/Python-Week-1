@@ -139,6 +139,26 @@ Bitwise operators are used to compare binary numbers.
 * Zero fill left shift (<<) Shift left by pushing zeros in from the right and let the leftmost bits fall off
 * Signed right shift (>>) Shift right by pushing copies of the leftmost bit in from the left and let the rightmost bits fall off
 
+Operator Precedence
+
+Precedence order staring with the highest precedence 
+
+* Parantheses ()
+* Exponentiation **
+* Unary plus (+x), Unary minus (-x)and Bitwise NOT (~X)
+* Multiplication (*), Division (/), Floor division (//) and Modulus (%)
+* Addition (+) and Subtraction (-)
+* Bitwise left (<<) and right shift (>>)
+* Bitwise AND (&)
+* Bitwise XOR (^)
+* Bitwise OR (|)
+* Comparison Operator ( ==, !=, >, >=, <, <=)
+* Identity Operators ( is, is not)
+* Membership Operators ( in, not in)
+* Logal NOT (not)
+* AND (and)
+* OR (or)
+
 
   
 
