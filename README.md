@@ -97,6 +97,14 @@ Assignment operators are used to assign values to variables.
 
 Comparison operators
 
+Comparison Operators are used to compare two values.
+
+* Equal (==)
+* Not equal (!=)
+* Greater than >
+* Less than <
+* Greater than or equal to >=
+* Less than or equal <=
 
 
   
