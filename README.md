@@ -2,7 +2,7 @@
 # Python Introduction: Basics of Python
 
 Python is a programming language used by many large organization such as Google, Yahoo and IBM.
-Jupyter Notebook is a web application where you write and execute python programs 
+Jupyter Notebook is a web application where you write and execute python programs. 
 "#" is a comment symbol.
 
 # Variables and types
