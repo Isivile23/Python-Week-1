@@ -116,11 +116,17 @@ Logical operators are used to combine conditional statements.
 
 Identity operator
 
-Identit operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location.
+Identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location.
 
 * "is" Returns True if both variable are the same object.
 * "is not" Returns True if both variables are not the same object.
 
+Membership operators
+
+Membership operators are used to test if the sequence is presented in an object.
+
+* "in" Returns True if a sequence with specified value is present in an object.
+*  "not in" Returns True if a sequence with the specified value is not present in an object.
   
 
 
