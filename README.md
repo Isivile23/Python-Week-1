@@ -106,6 +106,20 @@ Comparison Operators are used to compare two values.
 * Greater than or equal to >=
 * Less than or equal <=
 
+Logical operators
+
+Logical operators are used to combine conditional statements.
+
+* "and" Returns a True if both True
+* "or" Returns a True if one is True
+* "not" Reverse the result, returns False if the result is True
+
+Identity operator
+
+Identit operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location.
+
+* "is" Returns True if both variable are the same object.
+* "is not" Returns True if both variables are not the same object.
 
   
 
