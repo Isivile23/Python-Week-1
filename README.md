@@ -68,6 +68,19 @@ Python divides operators in the following groups:
 * Membership Operators
 * Bitwise Operators
 
+Arithmetic Operators
+
+Arithmetic operators are used with numeric values to perform common mathematical operations.
+* Addition (+)
+* Subtraction (-)
+* Multplication (*)
+* Division (/)
+* Modulus (%)
+* Exponentiation (^)
+* Floor division (//)
+
+  
+
 
 
 
