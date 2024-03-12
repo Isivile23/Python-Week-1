@@ -126,7 +126,9 @@ Membership operators
 Membership operators are used to test if the sequence is presented in an object.
 
 * "in" Returns True if a sequence with specified value is present in an object.
-*  "not in" Returns True if a sequence with the specified value is not present in an object.
+* "not in" Returns True if a sequence with the specified value is not present in an object.
+
+
   
 
 
