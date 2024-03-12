@@ -54,5 +54,11 @@ The keyord "None" represent the absence of value, and it is the default return v
 Class helps to label and organize related collection of functions and attributes.
 We use an uppercase letter for class name.
 
-# Basic data types
+# Python Operators
+
+Operators are used to perform operations on variables and values.
+
+
+
+
 
