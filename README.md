@@ -128,6 +128,15 @@ Membership operators are used to test if the sequence is presented in an object.
 * "in" Returns True if a sequence with specified value is present in an object.
 * "not in" Returns True if a sequence with the specified value is not present in an object.
 
+Bitwise operators
+
+Bitwise operators are used to compare binary numbers.
+
+* AND (&) Sets each bit to 1 if the both bits are 1
+* OR (|) Sets each bit to 1 if one of two bits is 1
+* XOR (^) Sets each bit to 1 if only one of two bits is 1
+* NOT (~) Inverts all the bits
+
 
   
 
