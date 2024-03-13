@@ -167,6 +167,10 @@ Lets see how to convert between them:
 This is how division with ints returns a float, 20 divided by 4 gives us 5.0.
 Python automatically returns a float to accomodate non-whole numbers.
 Adding a float to an int or multiplying or using exponents with both also returns a float.
+int is a built-in class in Python, along with other types like string, floats, and list.
+Converting one type to another, we call it Casting.
+Python does not round when casting floats to ints, it removes the decimal part.
+
 
   
 
