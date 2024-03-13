@@ -172,8 +172,26 @@ Converting one type to another, we call it Casting.
 Python does not round when casting floats to ints, it removes the decimal part.
 To round a float to the nearest int, we can use the round function.
 One pitfall of floats is that they are approximations, which results to rounding errors.
-Floata are stored as binary ones and zeros in memory, and due to limited memory, Python makes approximations, leading to these rounding errors.
+Floats are stored as binary ones and zeros in memory, and due to limited memory, Python makes approximations, leading to these rounding errors.
 Using the round function mitigates this issue.
+
+# Boolean
+
+Python easily casts intergers to booleans.
+1 is True and 0 is False.
+Even -1 and imaginary 1 are True.
+Float 0 and imaginery 0 are false.
+We can cast data structures to booleans as well. An empty list or dictionary is false, but anything inside is True.
+
+# Strings
+
+Python has numerous tools to analyze and construct strings, and one of the most useful is slicing.
+Slicing refers to taking a portion of a string and returning it.
+F-String allow us to insert variables or expressions inside curly braces in a string.
+We can also do roundng and number formatting with f-strings.
+
+# Bytes 
+
 
 
 
