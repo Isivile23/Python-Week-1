@@ -159,6 +159,14 @@ Precedence order staring with the highest precedence
 * AND (and)
 * OR (or)
 
+# Ints and Floats
+
+Ints and floats are the two fundamental number types in Python.
+Lets see how to convert between them:
+
+This is how division with ints returns a float, 20 divided by 4 gives us 5.0.
+Python automatically returns a float to accomodate non-whole numbers.
+Adding a float to an int or multiplying or using exponents with both also returns a float.
 
   
 
