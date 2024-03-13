@@ -170,6 +170,11 @@ Adding a float to an int or multiplying or using exponents with both also return
 int is a built-in class in Python, along with other types like string, floats, and list.
 Converting one type to another, we call it Casting.
 Python does not round when casting floats to ints, it removes the decimal part.
+To round a float to the nearest int, we can use the round function.
+One pitfall of floats is that they are approximations, which results to rounding errors.
+Floata are stored as binary ones and zeros in memory, and due to limited memory, Python makes approximations, leading to these rounding errors.
+Using the round function mitigates this issue.
+
 
 
   
