@@ -202,8 +202,14 @@ Bytes objects are immutable, but you can use a byte array if you need to modify 
 
 # BASIC DATA STRUCTURE
 
-## Lists
+# Lists
 
+Lists are used to store multiple items in a single variable.
+Lists can be created using square brackets.
+List items are ordered, changeable, and allow duplicate values.
+List items are indexed, the first item has index [0], the second item has index [1] etc.
+To determine how many items a list has, use len() function.
+List item can be any data type, e.g String, int and boolean.
 
 
 
