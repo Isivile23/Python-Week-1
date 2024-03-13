@@ -159,6 +159,7 @@ Precedence order staring with the highest precedence
 * AND (and)
 * OR (or)
 
+# BASIC DATA TYPES
 # Ints and Floats
 
 Ints and floats are the two fundamental number types in Python.
