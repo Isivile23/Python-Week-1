@@ -200,6 +200,11 @@ Bytes objects is commonly used for streaming files or transmitting text without 
 Decode function can be used to turn a byte object back into string.
 Bytes objects are immutable, but you can use a byte array if you need to modify the data.
 
+# BASIC DATA STRUCTURE
+# Lists
+
+
+
 
 
 
