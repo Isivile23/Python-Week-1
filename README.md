@@ -192,6 +192,13 @@ We can also do roundng and number formatting with f-strings.
 
 # Bytes 
 
+It is used behind the scenes in programs.
+It is data that is passed around but rarely modified directly.
+Computer stores information as ones and zeros.
+Bytes objects is commonly used for streaming files or transmitting text without knowing the encoding.
+Decode function can be used to turn a byte object back into string.
+Bytes objects are immutable, but you can use a byte array if you need to modify the data.
+
 
 
 
