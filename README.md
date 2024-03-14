@@ -200,7 +200,7 @@ Bytes objects is commonly used for streaming files or transmitting text without 
 Decode function can be used to turn a byte object back into string.
 Bytes objects are immutable, but you can use a byte array if you need to modify the data.
 
-# BASIC DATA STRUCTURE
+# BASIC DATA STRUCTURES
 
 # Lists
 
@@ -233,6 +233,16 @@ A set is collection which is unordered, unchangeable and unindexed.
 Use of sets in programming is to remove duplicates from a list, since sets only contains unique values.
 You can add elements in a set using add() function and remove elements using the discard() function.
 
+# Dictionaries
+
+Dictionaries are used to store values in key:value pairs.
+A dictionary is a collection which is ordered, changeable and do not allow duplicate.
+Dictionaries are written with curly brackets, and have keys and values.
+To determine how many items in a dictionary use a len() function.
+The values in a dictionary can be any data type.
+Dictionaries are defined as objects with the data type 'dict'.
+You can use a dict() constructor to make a dictionary.
+You can acces keys and values of a dictionary using the .keys() and .values() method.
 
 
 
