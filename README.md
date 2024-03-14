@@ -217,6 +217,23 @@ pop() method removes and returns the items at the end of the list.
 To remove all items in a list we can use a loop with pop().
 To make a copy of a list,we can use the copy() method.
 
+# Tuples and Sets
+
+Tuples are used to store multiple items in a single variable.
+A tuple is a collecton which is ordered, unchangeable and allow duplicate values.
+Tuples are written with round brackets.
+To determine how many items a tuple has, use the len() function.
+To create a tuple with only one letter, you have to add a comma after the item.
+Tuple items can be any data type, such as String, int and boolean.
+Tuples are defined as objects with the data type 'tuple'.
+You can use a tuple() constructor to make a tuple.
+Sets are defined using curly brackets.
+Sets are used to store multiple items in a single variable.
+A set is collection which is unordered, unchangeable and unindexed.
+Use of sets in programming is to remove duplicates from a list, since sets only contains unique values.
+You can add elements in a set using add() function and remove elements using the discard() function.
+
+
 
 
 
