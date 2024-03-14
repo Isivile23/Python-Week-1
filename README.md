@@ -210,6 +210,9 @@ List items are ordered, changeable, and allow duplicate values.
 List items are indexed, the first item has index [0], the second item has index [1] etc.
 To determine how many items a list has, use len() function.
 List item can be any data type, e.g String, int and boolean.
+To add an item to the end of the list we can use the append() method.
+If you want to insert an item a specific position in the list, we can use insert() method.
+
 
 
 
