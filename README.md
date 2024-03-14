@@ -212,6 +212,10 @@ To determine how many items a list has, use len() function.
 List item can be any data type, e.g String, int and boolean.
 To add an item to the end of the list we can use the append() method.
 If you want to insert an item a specific position in the list, we can use insert() method.
+To remove an item based on its value not index, use the remove() method.
+pop() method removes and returns the items at the end of the list.
+To remove all items in a list we can use a loop with pop().
+To make a copy of a list,we can use the copy() method.
 
 
 
