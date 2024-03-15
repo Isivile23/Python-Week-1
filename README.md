@@ -269,6 +269,23 @@ The else keyword catches anything which is not caught by preceding condition.
 The keywords And and Or are logical operators used to combine conditional statements.
 The not keyword is a logical operator, is used to reverse the result of the conditional statement.
 
+# While loop
+
+Python has two primitive loop commands:
+* while loops
+* for loops
+
+With while loop we can execute a set of statements as long as a condition is true.
+With break statement we can stop the loop even if the while condition is true.
+With continue statement we cam stop the current iteration, and continue with the next.
+
+# For loop
+
+For loop is used for sequential traversal, e.i it is used for iteration over an iterable String, Tuple, Sets,List or Dictionary.
+pass can be used to write a stub for a for loo.
+continue is used to skip the rest of a loop during a specific iteration.
+break can be used to stop the loop early if you have found what you are looking for.
+
 
 
 
