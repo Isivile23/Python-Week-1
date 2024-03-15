@@ -264,6 +264,11 @@ Dictionary comprehensions can be used to create a new dictionary from an iterabl
 
 An "if statement" is written by using the keyword if.
 Python relies on indentation ( whitespace at the beginning of a line) to define scope in the code.
+The elif keyword is Python's way of saying "If the previous condition were not true then try this condition".
+The else keyword catches anything which is not caught by preceding condition.
+The keywords And and Or are logical operators used to combine conditional statements.
+The not keyword is a logical operator, is used to reverse the result of the conditional statement.
+
 
 
 
