@@ -244,8 +244,15 @@ Dictionaries are defined as objects with the data type 'dict'.
 You can use a dict() constructor to make a dictionary.
 You can acces keys and values of a dictionary using the .keys() and .values() method.
 
+# List comprehension
 
-
+List comprehension is a special feature in python that sets it apart from other programming languages.
+Using a  list comprehension, we multiply each item in the list by two.
+The list comprehension is enclosed in square brackets.
+It allows you to create a for loop in one line while also returning a copy of the list you are iterating over.
+It also enables you to filter or apply functions to every item in a list.
+"split" is a new string function, it allows you to split strings based on a given character or string.
+"cleanWord" function
 
 
 
