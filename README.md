@@ -258,6 +258,15 @@ It also enables you to filter or apply functions to every item in a list.
 
 Dictionary comprehensions can be used to create a new dictionary from an iterable structure, much like how comprehension create a new list.
 
+# BASIC CONTROL FLOW
+
+# If and else
+
+An "if statement" is written by using the keyword if.
+Python relies on indentation ( whitespace at the beginning of a line) to define scope in the code.
+
+
+
 
 
   
