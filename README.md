@@ -252,7 +252,11 @@ The list comprehension is enclosed in square brackets.
 It allows you to create a for loop in one line while also returning a copy of the list you are iterating over.
 It also enables you to filter or apply functions to every item in a list.
 "split" is a new string function, it allows you to split strings based on a given character or string.
-"cleanWord" function
+"cleanWord" function uses the "replace" and "lower" functions to remove periods and to convert the string to lowercase.
+
+# Dictionary and Comprehension
+
+Dictionary comprehensions can be used to create a new dictionary from an iterable structure, much like how comprehension create a new list.
 
 
 
