@@ -305,6 +305,18 @@ Types of functions in Python:
 * Built-in library function: These are standard functions in Python that are available to use.
 * User-defined function: We ca create our own functions based on our requirements.
 
+Calling a function
+
+Use function name followed by ()
+
+Parameters and arguments
+
+They can be used for samething: information that is passed into a function.
+Parameter is the variable listed inside the parantheses in the function definition.
+An argument is the value thst is sent to the function when it is called.
+
+
+
 
 
 
