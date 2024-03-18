@@ -289,7 +289,21 @@ break can be used to stop the loop early if you have found what you are looking 
 # Python-Week-2
 # Anatomy of a function
 
+Python functions is a block of statements that returns a specific task. 
+Benefits of using Function:
+* Increase Code Readability
+* Increase Code Reusability
 
+The syntax to declare a function:
+
+def function_name(parameters):
+     # statement
+     return expression
+     
+Types of functions in Python:
+
+* Built-in library function: These are standard functions in Python that are available to use.
+* User-defined function: We ca create our own functions based on our requirements.
 
 
 
