@@ -68,7 +68,7 @@ Python divides operators in the following groups:
 * Membership Operators
 * Bitwise Operators
 
-Arithmetic Operators
+## Arithmetic Operators
 
 Arithmetic operators are used with numeric values to perform common mathematical operations.
 * Addition (+)
@@ -79,7 +79,7 @@ Arithmetic operators are used with numeric values to perform common mathematical
 * Exponentiation (**)
 * Floor division (//)
 
-Assignment Operators
+## Assignment Operators
 
 Assignment operators are used to assign values to variables.
 
@@ -95,7 +95,7 @@ Assignment operators are used to assign values to variables.
 * ^=
 * <<=
 
-Comparison operators
+## Comparison operators
 
 Comparison Operators are used to compare two values.
 
@@ -106,7 +106,7 @@ Comparison Operators are used to compare two values.
 * Greater than or equal to >=
 * Less than or equal <=
 
-Logical operators
+## Logical operators
 
 Logical operators are used to combine conditional statements.
 
@@ -114,21 +114,21 @@ Logical operators are used to combine conditional statements.
 * "or" Returns a True if one is True
 * "not" Reverse the result, returns False if the result is True
 
-Identity operator
+## Identity operator
 
 Identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location.
 
 * "is" Returns True if both variable are the same object.
 * "is not" Returns True if both variables are not the same object.
 
-Membership operators
+## Membership operators
 
 Membership operators are used to test if the sequence is presented in an object.
 
 * "in" Returns True if a sequence with specified value is present in an object.
 * "not in" Returns True if a sequence with the specified value is not present in an object.
 
-Bitwise operators
+## Bitwise operators
 
 Bitwise operators are used to compare binary numbers.
 
@@ -139,9 +139,9 @@ Bitwise operators are used to compare binary numbers.
 * Zero fill left shift (<<) Shift left by pushing zeros in from the right and let the leftmost bits fall off
 * Signed right shift (>>) Shift right by pushing copies of the leftmost bit in from the left and let the rightmost bits fall off
 
-Operator Precedence
+## Operator Precedence
 
-Precedence order staring with the highest precedence 
+Precedence order starting with the highest precedence 
 
 * Parantheses ()
 * Exponentiation **
@@ -160,7 +160,7 @@ Precedence order staring with the highest precedence
 * OR (or)
 
 # BASIC DATA TYPES
-# Ints and Floats
+## Ints and Floats
 
 Ints and floats are the two fundamental number types in Python.
 Lets see how to convert between them:
@@ -176,7 +176,7 @@ One pitfall of floats is that they are approximations, which results to rounding
 Floats are stored as binary ones and zeros in memory, and due to limited memory, Python makes approximations, leading to these rounding errors.
 Using the round function mitigates this issue.
 
-# Boolean
+## Boolean
 
 Python easily casts intergers to booleans.
 1 is True and 0 is False.
@@ -184,14 +184,14 @@ Even -1 and imaginary 1 are True.
 Float 0 and imaginery 0 are false.
 We can cast data structures to booleans as well. An empty list or dictionary is false, but anything inside is True.
 
-# Strings
+## Strings
 
 Python has numerous tools to analyze and construct strings, and one of the most useful is slicing.
 Slicing refers to taking a portion of a string and returning it.
 F-String allow us to insert variables or expressions inside curly braces in a string.
 We can also do roundng and number formatting with f-strings.
 
-# Bytes 
+## Bytes 
 
 It is used behind the scenes in programs.
 It is data that is passed around but rarely modified directly.
@@ -202,7 +202,7 @@ Bytes objects are immutable, but you can use a byte array if you need to modify 
 
 # BASIC DATA STRUCTURES
 
-# Lists
+## Lists
 
 Lists are used to store multiple items in a single variable.
 Lists can be created using square brackets.
@@ -217,7 +217,7 @@ pop() method removes and returns the items at the end of the list.
 To remove all items in a list we can use a loop with pop().
 To make a copy of a list,we can use the copy() method.
 
-# Tuples and Sets
+## Tuples and Sets
 
 Tuples are used to store multiple items in a single variable.
 A tuple is a collecton which is ordered, unchangeable and allow duplicate values.
@@ -233,7 +233,7 @@ A set is collection which is unordered, unchangeable and unindexed.
 Use of sets in programming is to remove duplicates from a list, since sets only contains unique values.
 You can add elements in a set using add() function and remove elements using the discard() function.
 
-# Dictionaries
+## Dictionaries
 
 Dictionaries are used to store values in key:value pairs.
 A dictionary is a collection which is ordered, changeable and do not allow duplicate.
@@ -244,7 +244,7 @@ Dictionaries are defined as objects with the data type 'dict'.
 You can use a dict() constructor to make a dictionary.
 You can acces keys and values of a dictionary using the .keys() and .values() method.
 
-# List comprehension
+## List comprehension
 
 List comprehension is a special feature in python that sets it apart from other programming languages.
 Using a  list comprehension, we multiply each item in the list by two.
@@ -254,13 +254,13 @@ It also enables you to filter or apply functions to every item in a list.
 "split" is a new string function, it allows you to split strings based on a given character or string.
 "cleanWord" function uses the "replace" and "lower" functions to remove periods and to convert the string to lowercase.
 
-# Dictionary and Comprehension
+## Dictionary and Comprehension
 
 Dictionary comprehensions can be used to create a new dictionary from an iterable structure, much like how comprehension create a new list.
 
 # BASIC CONTROL FLOW
 
-# If and else
+## If and else
 
 An "if statement" is written by using the keyword if.
 Python relies on indentation ( whitespace at the beginning of a line) to define scope in the code.
@@ -269,7 +269,7 @@ The else keyword catches anything which is not caught by preceding condition.
 The keywords And and Or are logical operators used to combine conditional statements.
 The not keyword is a logical operator, is used to reverse the result of the conditional statement.
 
-# While loop
+## While loop
 
 Python has two primitive loop commands:
 * while loops
@@ -279,7 +279,7 @@ With while loop we can execute a set of statements as long as a condition is tru
 With break statement we can stop the loop even if the while condition is true.
 With continue statement we cam stop the current iteration, and continue with the next.
 
-# For loop
+## For loop
 
 For loop is used for sequential traversal, e.i it is used for iteration over an iterable String, Tuple, Sets,List or Dictionary.
 pass can be used to write a stub for a for loo.
