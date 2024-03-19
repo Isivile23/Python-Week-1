@@ -293,6 +293,8 @@ Python functions is a block of statements that returns a specific task.
 Benefits of using Function:
 * Increase Code Readability
 * Increase Code Reusability
+* Functions can take arguments, allowing you to pass data into function and customize its behaviour.
+* Fuctions can return values, which can be used in other parts of your code. 
 
 ## The syntax to declare a function:
 
@@ -314,6 +316,14 @@ Use function name followed by ()
 They can be used for samething: information that is passed into a function.
 Parameter is the variable listed inside the parantheses in the function definition.
 An argument is the value thst is sent to the function when it is called.
+
+## Function Arguments
+
+* Required Arguments: These are parameters that must be provided when calling a fuction. If a required argument is missed, you will get an error.
+* Default Arguments: You can assign default values to parameters during function definition. If a corresponding argument is not provided during a call, the default value gets used.
+* Arbitrary Arguments (*args): This allows a function to accept any number of positional arguments beyond the defined parameters. These arguments are stored as a tuple within the function.
+* Keyword Arguments (**kwargs): This allows you to pass arguments by keyword name instead of position. Keyword arguments are stored as a dictionary within the function.
+
 
 
 
