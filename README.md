@@ -356,6 +356,19 @@ This has the benefit of meaning that you can loop through data to reach a result
 
 * tri_recursion() is a function that we have defined to call itself ("recurse").
 
+## Lambda Function
+
+Lambda function is a small anonymous function.
+A Lambda function can take any number of arguments, but can only have one expression.
+
+### Syntax
+lambda arguments : expression
+
+## Why use lambda functions
+The power of lambda is better shown when you use them as an anonymous function inside another function.
+
+
+
 
 
 
