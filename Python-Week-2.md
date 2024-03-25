@@ -96,6 +96,21 @@ A class is a collection of objects. It contains the blueprints or the prototype 
 * Defined at the class level, outside of any methods.
 * Accessed directly using the class name, not through object instances.
 
+## Instance and static methods
+
+Instance methods:
+* They are defined like regular functions within a class.
+* First argument (self) refers to the object instance itself
+* Can access both instance variables (specific to the object) and class variables (shared by all instances)
+
+## Static methods
+
+* They are defined using the @staticmethod decorator.
+* Do not take self as an argument.
+* Can only access class variables, not instance variables.
+* Useful for utility functions related to the class but not specific to objects.
+
+
 
 
 
