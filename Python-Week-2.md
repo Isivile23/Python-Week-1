@@ -86,4 +86,16 @@ A class is a collection of objects. It contains the blueprints or the prototype 
 
 ## Instance Attributes
 
+* Variables that are unique to each object (instance) of a class.
+* Used to store data that varies among objects of the same class.
+* Define them within the __init__() method (constructor) of a class using the self keyword.
+
+## Static Attributes
+
+* Variables that belong to the class itself, shared by all instances of that class.
+* Defined at the class level, outside of any methods.
+* Accessed directly using the class name, not through object instances.
+
+
+
 
