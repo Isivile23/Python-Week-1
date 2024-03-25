@@ -2,7 +2,7 @@
 # Python-Week-2
 # Anatomy of a function
 
-Python functions is a block of statements that returns a specific task. 
+Python functions is a block of statements that returns a specific task.
 Benefits of using Function:
 * Increase Code Readability
 * Increase Code Reusability
