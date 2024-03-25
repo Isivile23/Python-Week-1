@@ -82,7 +82,7 @@ The power of lambda is better shown when you use them as an anonymous function i
 
 # Anatomy of a class
 
-A class is like an object constructor or a blueprint for creating objects.
+A class is a collection of objects. It contains the blueprints or the prototype from which the objects are being created. It is a logical entity that contains some attributes and methods.
 
 ## Instance Attributes
 
