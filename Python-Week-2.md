@@ -110,6 +110,17 @@ Instance methods:
 * Can only access class variables, not instance variables.
 * Useful for utility functions related to the class but not specific to objects.
 
+## Inheritance
+
+### Class inheritance
+
+Inheritance in Python is a fundamental concept in object-oriented programming (OOP) that allows you to create new classes (subclasses, derived classes, child classes) based on existing classes (superclasses, base classes, parent classes).
+It provides a powerful mechanism for code reusability, promoting code organization and maintainability. 
+
+Concepts:
+
+
+
 
 
 
