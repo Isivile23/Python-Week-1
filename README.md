@@ -367,6 +367,9 @@ lambda arguments : expression
 ## Why use lambda functions
 The power of lambda is better shown when you use them as an anonymous function inside another function.
 
+# Anatomy of a class
+
+
 
 
 
