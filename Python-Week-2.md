@@ -137,6 +137,9 @@ Errors and exceptions are basically the same thing.
 All python errors and exceptions stem from a class called base exception.
 The base exception class provides useful and powerful properties to exceptions such as halting code execution and providing information about why and how the execution was halted.
 
+![image](https://github.com/Isivile23/Python-Week-1/assets/162969923/ec9ca693-6896-4c08-ba9a-02b1e4eabfc1)
+
+
 ## Managing and Handling Exceptions
 
 * The try block lets you test a block of code for errors.
