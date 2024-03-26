@@ -131,6 +131,11 @@ The Subclass inherits all the public methods and attributes from a Superclass. T
 
 # Handling Errors and Exceptions
 
+Exceptions are determined during runtime and can be retried.
+Errors can not be retried.
+Errors and exceptions are basically the same thing.
+All python errors and exceptions stem from a class called base exception.
+The base exception class provides useful and powerful properties to exceptions such as halting code execution and providing information about why and how the execution was halted.
 
 
 
