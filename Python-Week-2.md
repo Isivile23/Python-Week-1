@@ -116,8 +116,21 @@ Instance methods:
 
 Inheritance in Python is a fundamental concept in object-oriented programming (OOP) that allows you to create new classes (subclasses, derived classes, child classes) based on existing classes (superclasses, base classes, parent classes).
 It provides a powerful mechanism for code reusability, promoting code organization and maintainability. 
+The Subclass inherits all the public methods and attributes from a Superclass. The subclass can then add its own specific methods and attributes , or override inherited methods to provide custom behavior.
 
-Concepts:
+### Concepts:
+
+* Superclass (Base Class, Parent Class): The original class that provides properties and methods to inhering classes.
+* Subclass (Derived Class, Child Class): A new class created from a superclass, inheriting its attributes nd fuctionalities.
+
+### Benefits of Inheritance
+
+* Code Reusability
+* Maintainability
+* Real-world Modeling
+
+
+
 
 
 
