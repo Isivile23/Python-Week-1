@@ -168,7 +168,7 @@ The syntax is:
 * filename: The name of the file you want to work with.
 * mode: A string indicating the access mode for the file
 
-## File Modes
+## File Modes:
 
 The mode argument in open() specifies how you want to interact with the file. Here are some common modes:
 
