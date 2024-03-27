@@ -179,7 +179,19 @@ The mode argument in open() specifies how you want to interact with the file. He
 * 'r+': Open for reading and writing. Allows both reading and modifying the content.
 * 'a+': Open for appending and reading. Similar to 'a' but allows reading as well.
 
+## Reading from Files:
 
+Once you have a file object opened in read mode ('r'), you can use methods to access its content:
+
+* read(size): Reads a specific number of bytes from file and returns it as a string (or bytes objects in binary mode). If size is omitted, reads the entire file.
+* readline(): Reads a single line from the file (including the newline character) and returns it as a string.
+* readlines(): Reads all line from the file and returns them as a list of strings, where each element is a line.
+
+## Writing to File:
+
+Whem a file is opened in write mode ('w') or append mode ('a'), you can use the write() method to write data to the file:
+
+* write(string): Writes the string to the file. Data is encoded accordon to the files encoding (usually UTF-8).
 
 
 
