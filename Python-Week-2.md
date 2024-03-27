@@ -175,7 +175,9 @@ The mode argument in open() specifies how you want to interact with the file. He
 * 'r': Open for reading (default). Raises an error if the file does not exist.
 * 'w'": Open for writing. Creates new files if it does not exist, otherwise truncates (clears) the existing content.
 * 'a': Open for appending. Creates a new file if it does not exist, otherwise adds new data to the end of the existing file.
-* 
+* 'x': Open for exclusive creation. Creates a new file and raises an error if the file already exists.
+* 'r+': Open for reading and writing. Allows both reading and modifying the content.
+* 'a+': Open for appending and reading. Similar to 'a' but allows reading as well.
 
 
 
