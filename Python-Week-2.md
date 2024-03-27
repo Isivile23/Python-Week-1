@@ -155,8 +155,27 @@ The base exception class provides useful and powerful properties to exceptions s
 * cpu bound = program/task spends most of its time waiting for internal events (CPU intensive) multiprocessing.
 * io bound = program/task spends most of its time waiting for external events (user input, web scrabing) multithreading.
 
+# Fundamentals of working with files
 
 
+## The open()function:
+This is your gateway intercating with file. It opens a file for various operations and returns a file object.
+
+The syntax is:
+
+![image](https://github.com/Isivile23/Python-Week-1/assets/162969923/f042372a-5ab0-41c4-8d1b-4061dbc6334c)
+
+* filename: The name of the file you want to work with.
+* mode: A string indicating the access mode for the file
+
+## File Modes
+
+The mode argument in open() specifies how you want to interact with the file. Here are some common modes:
+
+* 'r': Open for reading (default). Raises an error if the file does not exist.
+* 'w'": Open for writing. Creates new files if it does not exist, otherwise truncates (clears) the existing content.
+* 'a': Open for appending. Creates a new file if it does not exist, otherwise adds new data to the end of the existing file.
+* 
 
 
 
