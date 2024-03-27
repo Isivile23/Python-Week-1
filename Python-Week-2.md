@@ -14,6 +14,7 @@ Benefits of using Function:
 def function_name(parameters):
      # statement
      return expression
+
      
 ## Types of functions in Python:
 
