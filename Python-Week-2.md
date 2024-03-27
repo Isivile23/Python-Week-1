@@ -148,6 +148,12 @@ The base exception class provides useful and powerful properties to exceptions s
 * The else block lets you execute code when there is no error.
 * The finally block lets you execute code, regardless of the result of the try and except blocks.
 
+# Threads and processes
+
+* Threads: is a flow of execution. Like a seperate order of instructions.
+* GIL = (Global interpreter lock) allows only one thread to hold the control of the Python interpreter at any one time.
+* cpu bound = program/task spends most of its time waiting for internal events (CPU intensive) multiprocessing.
+* io bound = program/task spends most of its time waiting for external events (user input, web scrabing) multithreading.
 
 
 
