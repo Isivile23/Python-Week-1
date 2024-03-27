@@ -193,6 +193,13 @@ Whem a file is opened in write mode ('w') or append mode ('a'), you can use the 
 
 * write(string): Writes the string to the file. Data is encoded accordon to the files encoding (usually UTF-8).
 
+## Closing Files:
+
+* It is crucial to close the file object once you are done using it. This ensures proper 
+ resource management and prevents data corruption.
+* Used close() method of the file object:
+
+![image](https://github.com/Isivile23/Python-Week-1/assets/162969923/f1c6e006-5e68-498f-a7b3-3df6f18b67e8)
 
 
 
