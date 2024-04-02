@@ -18,3 +18,7 @@
 * Functional requirements describe what the application should or should not do and are written as sentences starting with "the application must" or "the application shall".
 * Functional requirements, non-functional requirements describe how the application should accomplish its task.
 * They focus on qualities like maintainability, reliability, and usability.
+
+## Architecture
+
+
