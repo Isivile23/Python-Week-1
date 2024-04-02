@@ -21,4 +21,6 @@
 
 ## Architecture
 
+* Organize and structure the code for application.
+
 
