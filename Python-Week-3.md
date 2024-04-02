@@ -13,3 +13,8 @@
 * User stories focus on the who, what, and why of a task or goal, while use cases cover the who, what, and how of achieving that goal.
 * On your project you can choose to use user stories or combine them with use cases depending on the complexity of it.
 
+## Project requirements
+
+* Functional requirements describe what the application should or should not do and are written as sentences starting with "the application must" or "the application shall".
+* Functional requirements, non-functional requirements describe how the application should accomplish its task.
+* They focus on qualities like maintainability, reliability, and usability.
